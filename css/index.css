@@ -20,11 +20,13 @@
 
 #title_index h2{
     color: rgb(227, 142, 73);
+    font-size: 20px;
 }
 
 #img_title_index {
     justify-content: center;
     box-shadow: 20px;
+    
 }
 
 #img_title_index img {
