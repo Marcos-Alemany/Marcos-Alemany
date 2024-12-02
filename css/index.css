@@ -33,10 +33,10 @@
 
 #circulo1 {
     background-color: rgb(67, 46, 84);
-    opacity: 80%;
+    opacity: 70%;
     border-radius: 50%;
-    height: 100px;
-    width: 100px;
+    height: 400px;
+    width: 400px;
     position: absolute;
     top: 50px;
     left: 50px;
