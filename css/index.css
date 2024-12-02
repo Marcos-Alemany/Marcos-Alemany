@@ -34,4 +34,6 @@
 #circulo1 {
     background-color: rgb(232, 188, 185);
     border-radius: 50%;
+    height: 100px;
+    width: 100px;
 }
