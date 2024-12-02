@@ -39,7 +39,7 @@
     height: 1000px;
     width: 1000px;
     position: absolute;
-    top: 50px;
-    left: 50px;
+    top: -400px;
+    left: -400px;
     z-index: 0;
 }
