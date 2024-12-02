@@ -1,5 +1,6 @@
 #title_index {
     color:rgb(106, 30, 85);
     display: flex;
-    margin: 0 auto;
+    align-items: center;
+    justify-content: center;
 }
