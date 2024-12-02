@@ -1,6 +1,6 @@
-header{
-    align-items: center;
-    justify-content: center;
+header {
+    display: grid;
+    grid-template-columns: 2;
 }
 
 #title_index {
@@ -18,4 +18,8 @@ header{
 
 #title_index h2{
     color: rgb(174, 68, 90);
+}
+
+#img_title_index {
+    justify-content: center;
 }
