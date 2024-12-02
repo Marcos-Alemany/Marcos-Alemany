@@ -15,11 +15,11 @@
 }
 
 #title_index h1{
-    color:rgb(67, 46, 84);
+    color:rgb(10, 57, 129);
 }
 
 #title_index h2{
-    color: rgb(174, 68, 90);
+    color: rgb(227, 142, 73);
 }
 
 #img_title_index {
@@ -33,7 +33,7 @@
 }
 
 #circulo1 {
-    background-color: rgb(67, 46, 84);
+    background-color: rgb(212, 235, 248);
     opacity: 40%;
     border-radius: 50%;
     height: 1000px;
